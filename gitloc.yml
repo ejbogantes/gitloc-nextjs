@@ -4,4 +4,4 @@ config:
         - en
         - de
     directories:
-        - public/locales
+        - messages
